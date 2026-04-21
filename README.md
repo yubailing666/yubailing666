@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I am Yu Bailing (余佰凌)
+## 我是大一学生 还在探索专业中
+## 欢迎交流一切问题
 
 <!--
 **yubailing666/yubailing666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
